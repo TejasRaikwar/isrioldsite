@@ -1,0 +1,5 @@
+[15-Sep-2015 12:50:22 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/isritech/public_html/www.dynamichris.com/wp-content/themes/masterstudy/index.php on line 1
+[29-Sep-2015 07:51:40 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/isritech/public_html/www.dynamichris.com/wp-content/themes/masterstudy/index.php on line 1
+[30-Nov-2015 15:25:27 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/isritech/public_html/www.dynamichris.com/wp-content/themes/masterstudy/index.php on line 1
+[01-Dec-2015 12:42:59 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/isritech/public_html/www.dynamichris.com/wp-content/themes/masterstudy/index.php on line 1
+[06-Jan-2016 13:55:08 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/isritech/public_html/www.dynamichris.com/wp-content/themes/masterstudy/index.php on line 1

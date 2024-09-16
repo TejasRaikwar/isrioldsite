@@ -1,0 +1,1 @@
+°¦õX<?php exit; ?>a:1:{s:7:"content";a:7:{s:26:"Test/masterstudy24.02.2016";s:7:"/themes";s:11:"masterstudy";s:7:"/themes";s:17:"masterstudy030916";s:7:"/themes";s:13:"masterstudy21";s:7:"/themes";s:13:"twentyfifteen";s:7:"/themes";s:14:"twentyfourteen";s:7:"/themes";s:13:"twentysixteen";s:7:"/themes";}}

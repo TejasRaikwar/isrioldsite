@@ -1,0 +1,3 @@
+CREATE TABLE `wp_lgp_crons` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `post_id_from` bigint(20) NOT NULL DEFAULT '0',  `type_from` varchar(10) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',  `post_id_to` bigint(20) NOT NULL DEFAULT '0',  `type_to` varchar(10) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',  `links` text COLLATE utf8mb4_unicode_520_ci NOT NULL,  `is_work` tinyint(1) NOT NULL DEFAULT '1',  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+/*!40000 ALTER TABLE `wp_lgp_crons` DISABLE KEYS */;
+/*!40000 ALTER TABLE `wp_lgp_crons` ENABLE KEYS */;

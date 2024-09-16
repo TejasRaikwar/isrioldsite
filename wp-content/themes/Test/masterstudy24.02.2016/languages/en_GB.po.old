@@ -1,0 +1,5142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mstudy\n"
+"POT-Creation-Date: 2015-07-20 14:17+0500\n"
+"PO-Revision-Date: 2015-07-20 14:17+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/marchello/Downloads/\n"
+"X-Poedit-SearchPath-0: masterstudy\n"
+
+#: masterstudy/404.php:9
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: masterstudy/404.php:11
+msgid "GO BACK TO HOMEPAGE"
+msgstr ""
+
+#: masterstudy/archive-events.php:66 masterstudy/archive-gallery.php:92
+#: masterstudy/index.php:92 masterstudy/vc_templates/stm_gallery_grid.php:90
+#: masterstudy/vc_templates/stm_teachers_grid.php:67
+msgid "Previous"
+msgstr ""
+
+#: masterstudy/archive-events.php:67 masterstudy/archive-gallery.php:93
+#: masterstudy/index.php:93 masterstudy/vc_templates/stm_gallery_grid.php:91
+#: masterstudy/vc_templates/stm_teachers_grid.php:68
+msgid "Next"
+msgstr ""
+
+#: masterstudy/archive-gallery.php:58
+#: masterstudy/inc/redux-framework/options-init.php:423
+msgid "Gallery"
+msgstr ""
+
+#: masterstudy/archive-gallery.php:68
+#: masterstudy/vc_templates/stm_gallery_grid.php:37
+msgid "All images"
+msgstr ""
+
+#: masterstudy/comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: masterstudy/comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: masterstudy/comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: masterstudy/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: masterstudy/index.php:109
+msgid "No result has been found. Please check for correctness."
+msgstr ""
+
+#: masterstudy/inc/custom.php:38
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: masterstudy/inc/custom.php:40
+msgid ""
+"<span class=\"vertical_divider\"></span>Reply <i class=\"fa fa-reply\"></i>"
+msgstr ""
+
+#: masterstudy/inc/custom.php:41
+msgid ""
+"<span class=\"vertical_divider\"></span>Edit <i class=\"fa fa-pencil-square-o"
+"\"></i>"
+msgstr ""
+
+#: masterstudy/inc/custom.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: masterstudy/inc/custom.php:70 masterstudy/inc/visual_composer.php:1222
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:582
+#: masterstudy/partials/event-form.php:13
+#: masterstudy/woocommerce/single-product-reviews.php:60
+msgid "Name"
+msgstr ""
+
+#: masterstudy/inc/custom.php:75 masterstudy/partials/event-form.php:23
+#: masterstudy/woocommerce/single-product-reviews.php:62
+msgid "E-mail"
+msgstr ""
+
+#: masterstudy/inc/custom.php:114
+msgid "Enter a valid email"
+msgstr ""
+
+#: masterstudy/inc/custom.php:220
+msgid "Your application has been successfully sent"
+msgstr ""
+
+#: masterstudy/inc/payment.php:90
+msgid "New participant for [event]"
+msgstr ""
+
+#: masterstudy/inc/payment.php:91
+msgid ""
+"A new member wants to join your [event]\n"
+"\t\t\t\tParticipant Info:\n"
+"\t\t        Name: [name]\n"
+"\t\t\t\tEmail: [email]\n"
+"\t\t\t\tPhone: [phone]\n"
+"\t\t\t\tMessage: [message]"
+msgstr ""
+
+#: masterstudy/inc/payment.php:97
+#: masterstudy/inc/redux-framework/options-init.php:522
+msgid "Confirmation of your pariticipation in the [event]"
+msgstr ""
+
+#: masterstudy/inc/payment.php:98
+msgid ""
+"Dear [name]\n"
+"\t\t\t\tThis email is sent to you to confirm your participation in the "
+"event.\n"
+"\t\t\t\tWe will contact you soon with further details.\n"
+"\t\t\t\tWith any question, feel free to phone +999999999999 or write to <a "
+"href=\"mailto:"
+msgstr ""
+
+#: masterstudy/inc/setup.php:44
+msgid "Top primary menu"
+msgstr ""
+
+#: masterstudy/inc/setup.php:45
+msgid "Secondary menu in the footer"
+msgstr ""
+
+#: masterstudy/inc/setup.php:49
+msgid "Primary Sidebar"
+msgstr ""
+
+#: masterstudy/inc/setup.php:51
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: masterstudy/inc/setup.php:59
+msgid "Footer Top"
+msgstr ""
+
+#: masterstudy/inc/setup.php:61
+msgid "Footer Top Widgets Area"
+msgstr ""
+
+#: masterstudy/inc/setup.php:69
+#: masterstudy/inc/redux-framework/options-init.php:813
+msgid "Footer Bottom"
+msgstr ""
+
+#: masterstudy/inc/setup.php:71
+msgid "Footer Bottom Widgets Area"
+msgstr ""
+
+#: masterstudy/inc/setup.php:80
+#: masterstudy/inc/redux-framework/options-init.php:450
+msgid "Shop"
+msgstr ""
+
+#: masterstudy/inc/setup.php:82
+msgid "Woocommerce pages sidebar"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:34
+msgid "Gallery type"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:37
+msgid "Image grid"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:38
+msgid "Slick slider"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:39
+msgid "Slick slider 2"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:44
+msgid "Thumbnail size"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:53
+#: masterstudy/inc/visual_composer.php:81
+#: masterstudy/inc/visual_composer.php:103
+#: masterstudy/inc/visual_composer.php:244
+#: masterstudy/inc/visual_composer.php:353
+#: masterstudy/inc/visual_composer.php:473
+#: masterstudy/inc/visual_composer.php:549
+#: masterstudy/inc/visual_composer.php:657
+#: masterstudy/inc/visual_composer.php:677
+#: masterstudy/inc/visual_composer.php:760
+#: masterstudy/inc/visual_composer.php:893
+#: masterstudy/inc/visual_composer.php:914
+#: masterstudy/inc/visual_composer.php:940
+#: masterstudy/inc/visual_composer.php:979
+#: masterstudy/inc/visual_composer.php:996
+#: masterstudy/inc/visual_composer.php:1011
+#: masterstudy/inc/visual_composer.php:1038
+#: masterstudy/inc/visual_composer.php:1053
+#: masterstudy/inc/visual_composer.php:1068
+#: masterstudy/inc/visual_composer.php:1083
+#: masterstudy/inc/visual_composer.php:1103
+#: masterstudy/inc/visual_composer.php:1208
+#: masterstudy/inc/visual_composer.php:1258
+#: masterstudy/inc/visual_composer.php:1288
+#: masterstudy/inc/visual_composer.php:1311
+#: masterstudy/inc/visual_composer.php:1326
+#: masterstudy/inc/visual_composer.php:1347
+msgid "Css"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:55
+#: masterstudy/inc/visual_composer.php:83
+#: masterstudy/inc/visual_composer.php:105
+#: masterstudy/inc/visual_composer.php:355
+#: masterstudy/inc/visual_composer.php:475
+#: masterstudy/inc/visual_composer.php:551
+#: masterstudy/inc/visual_composer.php:659
+#: masterstudy/inc/visual_composer.php:679
+#: masterstudy/inc/visual_composer.php:762
+#: masterstudy/inc/visual_composer.php:895
+#: masterstudy/inc/visual_composer.php:916
+#: masterstudy/inc/visual_composer.php:942
+#: masterstudy/inc/visual_composer.php:981
+#: masterstudy/inc/visual_composer.php:1040
+#: masterstudy/inc/visual_composer.php:1105
+#: masterstudy/inc/visual_composer.php:1260
+msgid "Design options"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:62
+msgid "Responsiveness"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:64
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:65
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:72
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:75
+msgid "Type 1"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:76
+msgid "Type 2"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:90
+msgid "Iframe Link"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:95
+msgid "Preview Image"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:112
+msgid "Gap"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:115
+msgid "0px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:116
+msgid "1px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:117
+msgid "2px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:118
+msgid "3px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:119
+msgid "4px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:120
+msgid "5px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:121
+#: masterstudy/inc/visual_composer.php:641
+msgid "10px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:122
+#: masterstudy/inc/visual_composer.php:646
+msgid "15px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:123
+#: masterstudy/inc/visual_composer.php:651
+msgid "20px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:124
+msgid "25px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:125
+msgid "30px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:126
+msgid "35px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:127
+msgid "40px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:128
+msgid "45px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:129
+msgid "50px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:130
+msgid "55px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:131
+msgid "60px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:134
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:169
+#: masterstudy/woocommerce/myaccount/my-orders.php:39
+#: masterstudy/woocommerce/myaccount/my-orders.php:58
+msgid "Date"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:170
+msgid "ID"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:171
+msgid "Author"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:172
+#: masterstudy/inc/visual_composer.php:369
+#: masterstudy/inc/visual_composer.php:489
+#: masterstudy/inc/visual_composer.php:909
+#: masterstudy/inc/visual_composer.php:968
+#: masterstudy/inc/visual_composer.php:1024
+#: masterstudy/inc/visual_composer.php:1273
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:145
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:200
+#: masterstudy/inc/widgets/woo_popular_courses.php:32
+msgid "Title"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:173
+msgid "Modified"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:174
+msgid "Random"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:175
+msgid "Comment count"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:176
+msgid "Menu order"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:181
+msgid "Descending"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:182
+msgid "Ascending"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:185
+msgid "STM Teachers"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:192
+#: masterstudy/inc/visual_composer.php:259
+msgid "Section title"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:194
+#: masterstudy/inc/visual_composer.php:261
+msgid "Title will be shown on the top of section"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:199
+msgid "Number of Teachers to output"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:201
+#: masterstudy/inc/visual_composer.php:267
+#: masterstudy/inc/visual_composer.php:311
+msgid "Fill field with number only"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:205
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+#: masterstudy/inc/widgets/woo_popular_courses.php:41
+msgid "Style"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:214
+msgid "All teachers"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:224
+msgid "Number of Teachers per row"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:236
+msgid "STM Teacher Details"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:239
+#: masterstudy/inc/visual_composer.php:364
+#: masterstudy/inc/visual_composer.php:484
+#: masterstudy/inc/visual_composer.php:560
+#: masterstudy/inc/visual_composer.php:668
+#: masterstudy/inc/visual_composer.php:689
+#: masterstudy/inc/visual_composer.php:788
+#: masterstudy/inc/visual_composer.php:905
+#: masterstudy/inc/visual_composer.php:925
+#: masterstudy/inc/visual_composer.php:964
+#: masterstudy/inc/visual_composer.php:992
+#: masterstudy/inc/visual_composer.php:1006
+#: masterstudy/inc/visual_composer.php:1020
+#: masterstudy/inc/visual_composer.php:1049
+#: masterstudy/inc/visual_composer.php:1064
+#: masterstudy/inc/visual_composer.php:1079
+#: masterstudy/inc/visual_composer.php:1093
+#: masterstudy/inc/visual_composer.php:1115
+#: masterstudy/inc/visual_composer.php:1170
+#: masterstudy/inc/visual_composer.php:1218
+#: masterstudy/inc/visual_composer.php:1269
+#: masterstudy/inc/visual_composer.php:1297
+#: masterstudy/inc/visual_composer.php:1322
+#: masterstudy/inc/visual_composer.php:1336
+msgid "STM"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:240
+msgid "Only on expert page"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:252
+msgid "STM Testimonials"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:265
+msgid "Number of testimonials to output"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:271
+msgid "Text Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:277
+msgid "Number of testimonials per row"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:296
+msgid "STM Post List"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:302
+msgid "Post Data"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:304
+msgid "Choose post type"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:309
+#: masterstudy/inc/visual_composer.php:708
+#: masterstudy/inc/visual_composer.php:828
+msgid "Number of items to output"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:315
+msgid "Number of items to output per row"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:325
+msgid "List design"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:329
+msgid "Show post date"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:331
+#: masterstudy/inc/visual_composer.php:337
+#: masterstudy/inc/visual_composer.php:343
+#: masterstudy/inc/visual_composer.php:349
+msgid "Item design"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:335
+msgid "Show post categories"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:341
+msgid "Show post tags"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:347
+msgid "Show comments tags"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:361
+msgid "Icon Box"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:374
+msgid "Title Holder"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:399
+msgid "Link color style"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:405
+#: masterstudy/inc/visual_composer.php:418
+#: masterstudy/inc/visual_composer.php:429
+#: masterstudy/inc/visual_composer.php:515
+msgid "Enter icon size in px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:409
+#: masterstudy/inc/visual_composer.php:506
+#: masterstudy/inc/visual_composer.php:632
+#: masterstudy/inc/visual_composer.php:1125
+msgid "Icon"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:415
+#: masterstudy/inc/visual_composer.php:512
+msgid "Icon Size"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:422
+msgid "Icon Align"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:433
+#: masterstudy/inc/visual_composer.php:519
+msgid "Icon Height"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:440
+#: masterstudy/inc/visual_composer.php:451
+#: masterstudy/inc/visual_composer.php:522
+msgid "Enter icon height in px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:444
+msgid "Icon Width"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:455
+msgid "Icon Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:462
+msgid "Text"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:467
+msgid "Icon Css"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:469
+msgid "Icon Design options"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:481
+msgid "Stats Counter"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:494
+msgid "Counter Value"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:500
+msgid "Duration"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:526
+msgid "Text alignment"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:533
+msgid "Text alignment in block"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:537
+msgid "Text color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:539
+msgid "Text color(white - default)"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:543
+msgid "Counter text color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:545
+msgid "Counter Text color(yellow - default)"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:557
+msgid "Icon Button"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:564
+msgid "Link"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:569
+msgid "Link tooltip (title)"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:575
+msgid "Button alignment"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:586
+msgid "Button Size"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:596
+msgid "Button Text Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:602
+msgid "Button Text Color Hover"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:608
+msgid "Button Background Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:614
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:620
+msgid "Button Border Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:626
+msgid "Button Border Color Hover"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:642
+msgid "11px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:643
+msgid "12px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:644
+msgid "13px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:645
+msgid "14px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:647
+msgid "16px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:648
+msgid "17px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:649
+msgid "18px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:650
+msgid "19px"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:665
+msgid "Colored Separator"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:672
+msgid "Separator Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:686
+msgid "Product Categories"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:693
+#: masterstudy/inc/visual_composer.php:814
+msgid "View type"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:703
+#: masterstudy/inc/visual_composer.php:823
+msgid "Carousel Auto Scroll"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:714
+#: masterstudy/inc/visual_composer.php:834
+msgid "Number of items per row"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:727
+msgid "Box text Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:733
+msgid "Text box Align"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:744
+msgid "Icon size"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:752
+msgid "Icon height"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:785
+msgid "Products List (All, featured, teacher courses)"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:792
+msgid "Meta sorting key"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:803
+msgid "Choose expert"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:830
+msgid "Leave empty to display all"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:846
+#: masterstudy/woocommerce/myaccount/my-orders.php:38
+msgid "Order"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:856
+msgid "Order by"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:863
+msgid "Dont Show price"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:869
+msgid "Don't Show rating"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:875
+msgid "Don't Show comments number"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:881
+msgid "Price Badge background color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:887
+msgid "Price Badge (Free) background color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:902
+msgid "Mailchimp"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:922
+msgid "Countdown"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:929
+msgid "Count to date"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:935
+msgid "Labels color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:961
+msgid "Sign Up Now"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:973
+msgid "Choose form"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:988
+msgid "Post info"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:991
+#: masterstudy/inc/visual_composer.php:1007
+#: masterstudy/inc/visual_composer.php:1063
+#: masterstudy/inc/visual_composer.php:1078
+msgid "Only on post page"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1003
+msgid "Post tags"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1018
+msgid "Share"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1026
+msgid "Share:"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1030
+msgid "Code"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1046
+msgid "Multiply separator"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1060
+msgid "Post author"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1075
+msgid "Post comments"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1090
+msgid "Course Lessons"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1097
+msgid "Section Title"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1112
+msgid "Lesson"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1119
+msgid "Lesson title"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1137
+msgid "Lesson badge"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1152
+msgid "Lesson meta"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1159
+msgid "Lesson Icon"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1167
+msgid "Pricing Plan"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1174
+msgid "Plan title"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1180
+msgid "Plan Color"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1185
+msgid "Plan price"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1191
+msgid "Plan payment period"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1197
+msgid "Plan Text"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1203
+msgid "Plan Button"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1210
+msgid "Design Options"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1216
+#: masterstudy/inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1227
+msgid "Image"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1232
+msgid "Image Size"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1234
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1238
+msgid "Job"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1243
+#: masterstudy/partials/event-form.php:17
+msgid "Phone"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1248
+#: masterstudy/woocommerce/order/order-details.php:169
+msgid "Email"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1253
+#: masterstudy/inc/redux-framework/options-init.php:1030
+msgid "Skype"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1266
+msgid "Gallery Grid"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1278
+msgid "Masonry Mode"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1283
+msgid "Gallery per page"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1295
+msgid "Certificate"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1301
+msgid "Certificate name"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1306
+msgid "Certificate Print"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1318
+msgid "Event info"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1321
+msgid "Only on event page"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1333
+msgid "Teachers Grid"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1340
+msgid "Teacher per page"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1424
+msgid "STM Teacher"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1425
+msgid "STM Category"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1426
+msgid "STM Film play"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1427
+msgid "STM Clock"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1428
+msgid "STM Bullhorn"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1429
+msgid "STM Mail-o"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1430
+msgid "STM Phone-o"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1431
+msgid "STM Pin-o"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1432
+msgid "STM Skype-o"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1433
+msgid "STM Book"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1434
+msgid "STM Alarm"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1435
+msgid "STM Briefcase"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1436
+msgid "STM Diamond"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1437
+msgid "STM Earth"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1438
+msgid "STM Graduation Hat"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1439
+msgid "STM License"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1440
+msgid "STM Users"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1441
+msgid "STM Brain"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1442
+msgid "STM Handshake"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1443
+msgid "STM Net"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1444
+msgid "STM LinkedIn"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1445
+msgid "STM Pin"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1446
+msgid "STM Market Researches"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1447
+msgid "STM Champion Medal"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1448
+msgid "STM Bike Riding"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1449
+msgid "STM Paint Palette"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1450
+msgid "STM Phone"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1451
+msgid "STM Fax"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1452
+msgid "STM SEO monitoring"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1453
+msgid "STM SEO performance up"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1454
+msgid "STM User"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1455
+msgid "STM Guitar"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1456
+msgid "STM Add User"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1457
+msgid "STM Adope PhotoShop"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1458
+msgid "STM Chevrone Right"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1459
+msgid "STM Chevrone Left"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1460
+msgid "STM Viral Marketing"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1461
+msgid "STM Yoga"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1462
+msgid "STM Youtube Play"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1463
+msgid "STM Book solid"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1464
+msgid "STM Book stack"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1465
+msgid "STM Ecommerce cart"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1466
+msgid "STM Certificate"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1467
+msgid "STM Mountain Climbing"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1468
+msgid "STM Comment solid"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1469
+msgid "STM Circle Drawer"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1470
+msgid "STM Diploma Paper"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1471
+msgid "STM Point Drawer"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1472
+msgid "STM Dribble"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1473
+msgid "STM Document Edit"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1474
+msgid "STM Users group"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1475
+msgid "STM Small logo"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1485
+msgid "Content with Right sidebar"
+msgstr ""
+
+#: masterstudy/inc/visual_composer.php:1498
+msgid "Content with left sidebar"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:11
+#: masterstudy/inc/woocommerce_setups.php:94
+#: masterstudy/inc/woocommerce_setups.php:101
+msgid "Category Background Color"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:13
+#: masterstudy/inc/woocommerce_setups.php:97
+msgid "Enter a value for this field"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:14
+msgid "Category Background font"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:18
+#: masterstudy/inc/woocommerce_setups.php:106
+msgid "Choose icons from Font Awesome Pack"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:34
+#: masterstudy/inc/woocommerce_setups.php:122
+msgid "Choose from Master Study Icons Pack"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:50
+msgid "Click on button, then choose icon, which will be held for this category"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:51
+msgid "If none of this icons suits you, upload thumbnail (130*120)"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:138
+msgid "Remove icon"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:272
+msgid "No available seats"
+msgstr ""
+
+#: masterstudy/inc/woocommerce_setups.php:289
+msgid "Take this course"
+msgstr ""
+
+#: masterstudy/inc/lib/mailchimp/Handling.class.php:37
+msgid ""
+"A notification has been sent to your email. Please confirm your subscription "
+"from there."
+msgstr ""
+
+#: masterstudy/inc/lib/mailchimp/Handling.class.php:41
+msgid "User with this email is already subscribed"
+msgstr ""
+
+#: masterstudy/inc/lib/mailchimp/Handling.class.php:45
+msgid ""
+"Please go to http://mailchimp.com/, login, go to your list, then Settings, "
+"and put \\\"First Name\\\" and \\\"Last Name\\\" not required."
+msgstr ""
+
+#: masterstudy/inc/lib/mailchimp/Handling.class.php:49
+msgid "Your API Key is Invalid!"
+msgstr ""
+
+#: masterstudy/inc/lib/mailchimp/Handling.class.php:53
+msgid "The list that you provided does not exists!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:31
+#: masterstudy/inc/redux-framework/options-init.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:87
+msgid "General"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:95
+msgid "Site Logo"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:97
+msgid "Upload your logo file here."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:103
+msgid "White-text Logo"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:105
+msgid ""
+"For our dark header options, we need your logo to be in white to stand out. "
+"Upload it here if you choose our dark or transparent header options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:110
+msgid "Logo Typography"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:126
+msgid ""
+"Select custom font for your logo (choose these parametrs if you want to "
+"display Blogname instead of logo image)."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:136
+msgid "Logo Width (px)"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:143
+msgid "Site Favicon"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:145
+msgid "Upload a 16px x 16px .png or .gif image here"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:151
+msgid "Header"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:159
+msgid "Header Style Options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:160
+msgid "Select your header style option"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:162
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1861
+msgid "Default"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:169
+msgid "Enable fixed header on scroll."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:176
+#: masterstudy/inc/redux-framework/options-init.php:209
+msgid "Top Bar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:182
+msgid "Enable Top Bar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:190
+msgid "Show login url"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:197
+msgid "Enable Top Bar Social Media icons"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:203
+msgid "Enable Top Bar WPML switcher(if WPML Plugin installed)"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:225
+msgid "Select custom font for your top bar text."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:236
+msgid "Select Social Media Icons to display"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:237
+#: masterstudy/inc/redux-framework/options-init.php:1076
+msgid ""
+"The urls for your social media icons will be taken from Social Media "
+"settings tab."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:291
+msgid "Address"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:293
+msgid "1010 Moon ave, New York, NY US"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:298
+msgid "Show address on mobile"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:304
+#: masterstudy/inc/widgets/working_hours.php:11
+msgid "Working Hours"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:305
+msgid "Mon - Sat 8.00 - 18.00"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:310
+msgid "Show Working hours on mobile"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:316
+msgid "Phone number"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:317
+msgid "+1 212-226-3126"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:322
+msgid "Show Phone on mobile"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:329
+msgid "Sidebars"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:338
+msgid "Grid view"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:339
+msgid "List view"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:342
+msgid "Blog Layout"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:349
+msgid "Blog Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:355
+msgid "Blog Sidebar - Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:357
+#: masterstudy/inc/redux-framework/options-init.php:385
+#: masterstudy/inc/redux-framework/options-init.php:413
+#: masterstudy/inc/redux-framework/options-init.php:440
+#: masterstudy/inc/redux-framework/options-init.php:468
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:159
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:358
+#: masterstudy/inc/redux-framework/options-init.php:386
+#: masterstudy/inc/redux-framework/options-init.php:414
+#: masterstudy/inc/redux-framework/options-init.php:441
+#: masterstudy/inc/redux-framework/options-init.php:469
+msgid "No Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:359
+#: masterstudy/inc/redux-framework/options-init.php:387
+#: masterstudy/inc/redux-framework/options-init.php:415
+#: masterstudy/inc/redux-framework/options-init.php:442
+#: masterstudy/inc/redux-framework/options-init.php:470
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:145
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:367
+#: masterstudy/partials/title_box.php:37
+msgid "Teachers"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:377
+msgid "Teachers Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:383
+msgid "Teachers Sidebar - Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:395
+#: masterstudy/inc/redux-framework/options-init.php:478
+msgid "Events"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:405
+msgid "Events Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:411
+msgid "Events Sidebar - Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:433
+msgid "Gallery Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:438
+msgid "Gallery Sidebar - Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:460
+msgid "Sidebar"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:466
+msgid "Sidebar - Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:486
+msgid "Paypal Email"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:491
+msgid "Currency"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:492
+msgid "USD"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:493
+msgid "Ex. USD"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:498
+msgid "Paypal Mode"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:508
+msgid "Admin Subject"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:509
+msgid "New Participant for [event]"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:514
+msgid "Admin Message"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:515
+msgid ""
+"A new member wants to join your [event]<br>Participant Info:<br>Name: [name]"
+"<br>Email: [email]<br>Phone: [phone]<br>Message: [message]"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:516
+#: masterstudy/inc/redux-framework/options-init.php:529
+msgid "Shortcodes Available - [name], [email], [phone], [message]."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:521
+msgid "User Subject"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:527
+msgid "User Message"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:528
+msgid ""
+"Dear [name].<br/> This email is sent to you to confirm your participation in "
+"the event.<br/>We will contact you soon with further details.<br>With any "
+"question, feel free to phone +999999999999 or write to <a href=\"mailto:"
+"timur@stylemix.net\">timur@stylemix.net</a>.<br>Regards,<br>MasterStudy Team."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:535
+msgid "Typography"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:542
+msgid "Body"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:558
+msgid "Select custom font for your main body text."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:568
+msgid "Menu"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:584
+msgid "Select custom font for menu"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:594
+msgid "Heading"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:610
+msgid "Select custom font for headings"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:619
+msgid "H1"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:645
+msgid "H2"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:671
+msgid "H3"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:697
+msgid "H4"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:723
+msgid "H5"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:749
+msgid "H6"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:776
+msgid "Footer"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:784
+msgid "Enable footer widgets area."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:790
+msgid "Footer Background Color"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:797
+msgid "Footer Columns"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:798
+msgid "Select the number of columns to display in the footer."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:803
+#: masterstudy/inc/redux-framework/options-init.php:840
+msgid "1 Column"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:804
+#: masterstudy/inc/redux-framework/options-init.php:841
+msgid "2 Columns"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:805
+#: masterstudy/inc/redux-framework/options-init.php:842
+msgid "3 Columns"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:806
+#: masterstudy/inc/redux-framework/options-init.php:843
+msgid "4 Columns"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:821
+msgid "Enable footer bottom widgets area."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:827
+#: masterstudy/inc/redux-framework/options-init.php:885
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:834
+msgid "Footer Bottom Columns"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:835
+msgid "Select the number of columns to display in the footer bottom."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:850
+msgid "Copyright"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:851
+msgid "Copyright block at the bottom of footer"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:858
+msgid "Enable footer copyright section."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:867
+msgid "Enable footer logo."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:874
+msgid "Footer Logo"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:880
+msgid ""
+"Upload your logo file here. Size - 50*56 (Retina 2x). Note, bigger images "
+"will be cropped to default size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:895
+msgid "Footer Copyright"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:896
+msgid "Enter the copyright text."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:900
+msgid ""
+"Copyright &copy; 2015 MasterStudy Theme by <a target=\"_blank\" href="
+"\"http://www.stylemixthemes.com/\">Stylemix Themes</a>"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:901
+msgid "Field Description"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:907
+msgid "Social Media"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:909
+msgid ""
+"Enter social media urls here and then you can enable them for footer or "
+"header. Please add full URLs including \"http://\"."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:915
+msgid "Facebook"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:918
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:923
+msgid "Twitter"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:926
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:931
+msgid "Instagram"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:934
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:939
+msgid "Behance"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:941
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:946
+msgid "Dribbble"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:948
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:953
+msgid "Flickr"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:955
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:960
+msgid "Git"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:962
+msgid "Enter your Git URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:967
+msgid "Linkedin"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:969
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:974
+msgid "Pinterest"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:976
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:981
+msgid "Yahoo"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:983
+msgid "Enter your Yahoo URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:988
+msgid "Delicious"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:990
+msgid "Enter your Delicious URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:995
+msgid "Dropbox"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:997
+msgid "Enter your Dropbox URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1002
+msgid "Reddit"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1004
+msgid "Enter your Reddit URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1009
+msgid "Soundcloud"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1011
+msgid "Enter your Soundcloud URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1016
+msgid "Google"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1018
+msgid "Enter your Google URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1023
+msgid "Google +"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1025
+msgid "Enter your Google + URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1032
+msgid "Enter your Skype URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1037
+msgid "Youtube"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1039
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1044
+msgid "Youtube Play"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1046
+msgid "Enter your Youtube Play(only icon differ) URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1051
+msgid "Tumblr"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1053
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1058
+msgid "Whatsapp"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1060
+msgid "Enter your Whatsapp URL."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1066
+msgid "Social Widget"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1067
+msgid "Choose socials for widget, and their order"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1075
+msgid "Select Social Widget Icons to display"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1105
+#: masterstudy/inc/widgets/mailchimp.php:11
+msgid "MailChimp"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1112
+msgid "Mailchimp API key"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1113
+msgid "Paste your MailChimp API key"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1119
+msgid "Mailchimp list id"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1120
+msgid "Paste your MailChimp List id"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1129
+msgid "One Click Update"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1130
+msgid ""
+"You already receive notifications from Themeforest about our Theme Updates! "
+"Here we added an option of Updating your theme with just one button click "
+"and forget about complications! But Should you have any issues while using "
+"this option update (it might be connected with permissions issues) then you "
+"still can use the regular manual update option."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1136
+msgid "ThemeForest Username"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1138
+msgid ""
+"Enter here your ThemeForest (or Envato) username here (i.e. Stylemixthemes)."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1143
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/options-init.php:1145
+msgid ""
+"Enter the secret API key you have on ThemeForest here. You can create a new "
+"one under the Settings > API Keys section of your profile."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:221
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:225
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1409
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1712
+msgid "Enable"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1717
+msgid "Disable"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1723
+msgid "moving the mouse over"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1725
+msgid "clicking"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1729
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:1734
+msgid "Hints"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:2711
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/framework.php:2797
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:397
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:405
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:421
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:428
+msgid "Please Wait"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/enqueue.php:440
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/debug.php:41
+#: masterstudy/inc/redux-framework/redux-framework/inc/debug.php:69
+#: masterstudy/inc/redux-framework/redux-framework/inc/debug.php:76
+#: masterstudy/inc/redux-framework/redux-framework/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:154
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:156
+#: masterstudy/inc/widgets/mailchimp.php:98
+msgid "Newsletter"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:33
+#: masterstudy/woocommerce/myaccount/form-login.php:80
+msgid "Email address"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: masterstudy/inc/widgets/mailchimp.php:44
+msgid "Subscribe"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:124
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/color/field_color.php:73
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:277
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:314
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:198
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:126
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:321
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:205
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:133
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:125
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:138
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:152
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:62
+#: masterstudy/woocommerce/global/form-login.php:30
+#: masterstudy/woocommerce/myaccount/form-login.php:38
+#: masterstudy/woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:63
+#: masterstudy/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:83
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:134
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:73
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:149
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:153
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:167
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:220
+#: masterstudy/woocommerce/cart/cart.php:26
+msgid "Delete"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:258
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:273
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:342
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:343
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:365
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:366
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:388
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:389
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:408
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:409
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:432
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:441
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:450
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:459
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/color/validation_color.php:15
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/email/validation_email.php:16
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:210
+msgid "Get Support"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:344
+msgid "Extensions"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:352
+msgid "Credits"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:360
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1391
+#: masterstudy/woocommerce/myaccount/my-orders.php:40
+#: masterstudy/woocommerce/myaccount/my-orders.php:61
+msgid "Status"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/welcome.php:517
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:8
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:8
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:8
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:82
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:31
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:5
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:358
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:22
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:47
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:50
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:51
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:56
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:12
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: masterstudy/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:177
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:532
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1167
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1170
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1288
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1312
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2070
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2070
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: masterstudy/inc/tgm/tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:92
+#: masterstudy/inc/widgets/mailchimp.php:104
+#: masterstudy/inc/widgets/pages.php:88
+#: masterstudy/inc/widgets/recent_posts.php:90
+#: masterstudy/inc/widgets/socials.php:76
+#: masterstudy/inc/widgets/working_hours.php:110
+msgid "Title:"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr ""
+
+#: masterstudy/inc/widgets/contacts.php:108
+msgid "E-mail:"
+msgstr ""
+
+#: masterstudy/inc/widgets/mailchimp.php:12
+msgid "MailChimp widget"
+msgstr ""
+
+#: masterstudy/inc/widgets/mailchimp.php:77
+msgid "Error API"
+msgstr ""
+
+#: masterstudy/inc/widgets/mailchimp.php:108
+msgid "To setup this widget please follow this <a href=\""
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:6
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:7
+msgid "STM Pages"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:21
+msgid "Pages"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:90
+msgid "Style:"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:92
+msgid "Style 1"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:93
+msgid "Style 2"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:97
+msgid "Sort by:"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:99
+msgid "Page title"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:100
+msgid "Page order"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:101
+msgid "Page ID"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:105
+msgid "Include:"
+msgstr ""
+
+#: masterstudy/inc/widgets/pages.php:107
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: masterstudy/inc/widgets/recent_posts.php:11
+msgid "STM Recent posts"
+msgstr ""
+
+#: masterstudy/inc/widgets/recent_posts.php:12
+msgid "Theme recent posts widget"
+msgstr ""
+
+#: masterstudy/inc/widgets/recent_posts.php:79
+msgid "Recent posts"
+msgstr ""
+
+#: masterstudy/inc/widgets/recent_posts.php:85
+msgid "3"
+msgstr ""
+
+#: masterstudy/inc/widgets/recent_posts.php:94
+msgid "Output number:"
+msgstr ""
+
+#: masterstudy/inc/widgets/socials.php:11
+msgid "Socials"
+msgstr ""
+
+#: masterstudy/inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+
+#: masterstudy/inc/widgets/socials.php:71
+msgid "Social Network"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:25
+msgid ""
+"Display a list of your top rated products on your site with course expert."
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:27
+msgid "STM WooCommerce Top Rated Products"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:31
+msgid "Popular courses"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:36
+msgid "style_1"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:49
+msgid "Number of products to show"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:98
+msgid "By"
+msgstr ""
+
+#: masterstudy/inc/widgets/woo_popular_courses.php:125
+#: masterstudy/vc_templates/stm_featured_products.php:93
+#: masterstudy/woocommerce/content-product-list.php:79
+#: masterstudy/woocommerce/content-product.php:87
+msgid "Free"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:12
+msgid "Office working hours"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:47
+msgid "Closed"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:77
+msgid "Working hours"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:114
+msgid "Monday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:118
+msgid "Tuesday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:122
+msgid "wednesday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:126
+msgid "thursday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:130
+msgid "friday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:134
+msgid "saturday:"
+msgstr ""
+
+#: masterstudy/inc/widgets/working_hours.php:138
+msgid "sunday:"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:9
+#: masterstudy/partials/content-event.php:121
+#: masterstudy/partials/content.php:9 masterstudy/partials/content.php:108
+msgid "Pages:"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:13
+#: masterstudy/partials/content.php:13
+msgid "Page"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:91
+#: masterstudy/vc_templates/stm_event_info.php:31
+msgid "Start:"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:94
+#: masterstudy/vc_templates/stm_event_info.php:38
+msgid "End:"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:98
+#: masterstudy/vc_templates/stm_event_info.php:45
+msgid "Location:"
+msgstr ""
+
+#: masterstudy/partials/content-event.php:105
+#: masterstudy/vc_templates/stm_event_info.php:54
+msgid "Join!"
+msgstr ""
+
+#: masterstudy/partials/content.php:73
+#: masterstudy/vc_templates/stm_post_info.php:15
+msgid "Posted by:"
+msgstr ""
+
+#: masterstudy/partials/content.php:77
+#: masterstudy/vc_templates/stm_post_info.php:19
+#: masterstudy/woocommerce/content-single-product.php:64
+msgid "Category:"
+msgstr ""
+
+#: masterstudy/partials/content.php:146
+#: masterstudy/vc_templates/stm_post_author.php:11
+msgid "Author:"
+msgstr ""
+
+#: masterstudy/partials/event-form.php:5
+msgid "Sign up for event"
+msgstr ""
+
+#: masterstudy/partials/event-form.php:29
+msgid "Message"
+msgstr ""
+
+#: masterstudy/partials/event-form.php:34
+msgid "Sign Up"
+msgstr ""
+
+#: masterstudy/partials/frontend_customizer.php:4
+msgid "Navigation"
+msgstr ""
+
+#: masterstudy/partials/frontend_customizer.php:7
+msgid "Static"
+msgstr ""
+
+#: masterstudy/partials/frontend_customizer.php:9
+msgid "Sticky"
+msgstr ""
+
+#: masterstudy/partials/frontend_customizer.php:13
+msgid "Color Scheme"
+msgstr ""
+
+#: masterstudy/partials/loop-events.php:27
+#: masterstudy/partials/loop-list.php:4
+msgid "View full"
+msgstr ""
+
+#: masterstudy/partials/loop-gallery.php:10
+#: masterstudy/vc_templates/stm_gallery_grid.php:63
+msgid "Watch full image"
+msgstr ""
+
+#: masterstudy/partials/loop-grid.php:25
+msgid "Watch full"
+msgstr ""
+
+#: masterstudy/partials/loop-grid.php:41 masterstudy/partials/loop-list.php:15
+#: masterstudy/vc_templates/stm_post_list.php:56
+msgid "Sticky Post"
+msgstr ""
+
+#: masterstudy/partials/loop-grid.php:53 masterstudy/partials/loop-list.php:37
+#: masterstudy/vc_templates/stm_post_list.php:72
+msgid "Posted in:"
+msgstr ""
+
+#: masterstudy/partials/loop-grid.php:65 masterstudy/partials/loop-list.php:49
+#: masterstudy/vc_templates/stm_post_list.php:87
+msgid "Tags:"
+msgstr ""
+
+#: masterstudy/partials/loop-list.php:57
+msgid "Read more"
+msgstr ""
+
+#: masterstudy/partials/loop-teacher.php:15
+#: masterstudy/partials/loop-teacher.php:32
+#: masterstudy/vc_templates/stm_teachers_grid.php:31
+#: masterstudy/vc_templates/stm_teachers_grid.php:48
+msgid "Watch teacher page"
+msgstr ""
+
+#: masterstudy/partials/loop-teacher.php:23
+#: masterstudy/vc_templates/stm_experts.php:81
+#: masterstudy/vc_templates/stm_teacher_detail.php:27
+#: masterstudy/vc_templates/stm_teachers_grid.php:39
+#: masterstudy/woocommerce/content-single-product.php:137
+msgid "View expert on"
+msgstr ""
+
+#: masterstudy/partials/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: masterstudy/partials/searchform.php:9
+#: masterstudy/partials/headers/header-default.php:59
+msgid "Start typing here..."
+msgstr ""
+
+#: masterstudy/partials/title_box.php:30
+msgid "News"
+msgstr ""
+
+#: masterstudy/partials/title_box.php:52
+msgid "News & Events"
+msgstr ""
+
+#: masterstudy/partials/top-bar.php:42 masterstudy/partials/top-bar.php:44
+msgid "Log out"
+msgstr ""
+
+#: masterstudy/partials/top-bar.php:48
+#: masterstudy/woocommerce/global/form-login.php:39
+#: masterstudy/woocommerce/myaccount/form-login.php:30
+#: masterstudy/woocommerce/myaccount/form-login.php:45
+msgid "Login"
+msgstr ""
+
+#: masterstudy/partials/top-bar.php:51
+#: masterstudy/woocommerce/myaccount/form-login.php:67
+#: masterstudy/woocommerce/myaccount/form-login.php:99
+msgid "Register"
+msgstr ""
+
+#: masterstudy/partials/footers/copyright.php:16
+#: masterstudy/partials/footers/copyright.php:18
+msgid "Footer logo"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_contact.php:29
+msgid "Phone: "
+msgstr ""
+
+#: masterstudy/vc_templates/stm_contact.php:32
+msgid "Email: "
+msgstr ""
+
+#: masterstudy/vc_templates/stm_contact.php:35
+msgid "Skype: "
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:31
+#: masterstudy/vc_templates/stm_testimonials.php:30
+msgid "Scroll Carousel left"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:34
+#: masterstudy/vc_templates/stm_testimonials.php:33
+msgid "Scroll Carousel right"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:41
+msgid "View all teachers"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:42
+msgid "View all"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:89
+msgid "View teacher page"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_experts.php:100
+msgid "Certified by"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_featured_products.php:101
+#: masterstudy/vc_templates/stm_featured_products.php:110
+#: masterstudy/vc_templates/stm_product_categories.php:68
+#: masterstudy/woocommerce/content-product-list.php:85
+#: masterstudy/woocommerce/content-product.php:93
+#: masterstudy/woocommerce/content-product.php:105
+msgid "View course"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_featured_products.php:156
+msgid "View more"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_post_list.php:36
+msgid "View post details"
+msgstr ""
+
+#: masterstudy/vc_templates/stm_product_categories.php:75
+msgid "Category image"
+msgstr ""
+
+#: masterstudy/vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr ""
+
+#: masterstudy/vc_templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr ""
+
+#: masterstudy/vc_templates/vc_wp_categories.php:4
+msgid "Categories"
+msgstr ""
+
+#: masterstudy/vc_templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr ""
+
+#: masterstudy/vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+#: masterstudy/woocommerce/content-product-list.php:122
+#: masterstudy/woocommerce/content-single-product.php:44
+msgid "Teacher"
+msgstr ""
+
+#: masterstudy/woocommerce/content-product-list.php:134
+#: masterstudy/woocommerce/content-product-list.php:141
+msgid "Available"
+msgstr ""
+
+#: masterstudy/woocommerce/content-product-list.php:134
+#: masterstudy/woocommerce/content-product-list.php:141
+msgid "seats"
+msgstr ""
+
+#: masterstudy/woocommerce/content-product-list.php:150
+msgid "See more"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product-meta-side.php:37
+msgid "Students"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product-meta-side.php:48
+msgid "Duration:"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product-meta-side.php:59
+msgid "Lectures:"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product-meta-side.php:70
+msgid "Video:"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:82
+#: masterstudy/woocommerce/content-single-product.php:166
+msgid "Reviews"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:120
+msgid "About Instructor"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:122
+msgid "Watch Expert Page"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:170
+msgid "Average Rating"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:177
+msgid "Ratings"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:223
+msgid "Detailed Rating"
+msgstr ""
+
+#: masterstudy/woocommerce/content-single-product.php:234
+msgid "Stars"
+msgstr ""
+
+#: masterstudy/woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:40
+msgid "There are no reviews yet."
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:54
+msgid "Add a review"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:54
+msgid "Be the first to review"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:80
+msgid "Your Review"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product-reviews.php:89
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:22
+#: masterstudy/woocommerce/cart/cart-shipping.php:97
+#: masterstudy/woocommerce/cart/cart-totals.php:52
+msgid "Shipping"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-shipping.php:76
+#: masterstudy/woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-totals.php:30
+#: masterstudy/woocommerce/cart/mini-cart.php:63
+#: masterstudy/woocommerce/checkout/review-order.php:38
+msgid "Subtotal"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-totals.php:84
+#: masterstudy/woocommerce/cart/cart.php:30
+#: masterstudy/woocommerce/checkout/review-order.php:10
+#: masterstudy/woocommerce/checkout/review-order.php:85
+#: masterstudy/woocommerce/myaccount/my-orders.php:41
+#: masterstudy/woocommerce/myaccount/my-orders.php:64
+#: masterstudy/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-totals.php:99
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart-totals.php:102
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:27
+msgid "Product name"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:28
+#: masterstudy/woocommerce/emails/admin-cancelled-order.php:24
+#: masterstudy/woocommerce/emails/admin-new-order.php:29
+#: masterstudy/woocommerce/emails/customer-completed-order.php:29
+#: masterstudy/woocommerce/emails/customer-invoice.php:33
+#: masterstudy/woocommerce/emails/customer-note.php:33
+#: masterstudy/woocommerce/emails/customer-processing-order.php:29
+#: masterstudy/woocommerce/single-product/price.php:25
+msgid "Price"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:29
+#: masterstudy/woocommerce/emails/admin-cancelled-order.php:23
+#: masterstudy/woocommerce/emails/admin-new-order.php:28
+#: masterstudy/woocommerce/emails/customer-completed-order.php:28
+#: masterstudy/woocommerce/emails/customer-invoice.php:32
+#: masterstudy/woocommerce/emails/customer-note.php:32
+#: masterstudy/woocommerce/emails/customer-processing-order.php:28
+msgid "Quantity"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:47
+#: masterstudy/woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:118
+#: masterstudy/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:118
+#: masterstudy/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: masterstudy/woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:47
+#: masterstudy/woocommerce/cart/shipping-calculator.php:53
+#: masterstudy/woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: masterstudy/woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-checkout.php:12
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:20
+#: masterstudy/woocommerce/checkout/review-order.php:9
+#: masterstudy/woocommerce/emails/admin-cancelled-order.php:22
+#: masterstudy/woocommerce/emails/admin-new-order.php:27
+#: masterstudy/woocommerce/emails/customer-completed-order.php:27
+#: masterstudy/woocommerce/emails/customer-invoice.php:31
+#: masterstudy/woocommerce/emails/customer-note.php:31
+#: masterstudy/woocommerce/emails/customer-processing-order.php:27
+#: masterstudy/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:55
+#: masterstudy/woocommerce/checkout/payment.php:10
+msgid "Payment"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:80
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-pay.php:90
+msgid "Pay for order"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/form-shipping.php:58
+#: masterstudy/woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/payment.php:25
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/payment.php:27
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/payment.php:38
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/payment.php:38
+msgid "Update totals"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/payment.php:48
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:28
+#: masterstudy/woocommerce/myaccount/my-orders.php:74
+msgid "Pay"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:36
+#: masterstudy/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: masterstudy/woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/admin-cancelled-order.php:13
+#: masterstudy/woocommerce/emails/plain/admin-cancelled-order.php:15
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/admin-cancelled-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/admin-new-order.php:18
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/admin-new-order.php:22
+#: masterstudy/woocommerce/emails/customer-completed-order.php:22
+#: masterstudy/woocommerce/emails/customer-invoice.php:26
+#: masterstudy/woocommerce/emails/customer-note.php:26
+#: masterstudy/woocommerce/emails/customer-processing-order.php:22
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-completed-order.php:18
+#: masterstudy/woocommerce/emails/plain/customer-completed-order.php:16
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-invoice.php:20
+#: masterstudy/woocommerce/emails/plain/customer-invoice.php:17
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-invoice.php:20
+msgid "pay"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-new-account.php:18
+#: masterstudy/woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-new-account.php:22
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-new-account.php:26
+#: masterstudy/woocommerce/emails/plain/customer-new-account.php:21
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-note.php:18
+#: masterstudy/woocommerce/emails/plain/customer-note.php:16
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-note.php:22
+#: masterstudy/woocommerce/emails/plain/customer-note.php:24
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-processing-order.php:18
+#: masterstudy/woocommerce/emails/plain/customer-processing-order.php:16
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-reset-password.php:18
+#: masterstudy/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-reset-password.php:19
+#: masterstudy/woocommerce/emails/plain/customer-reset-password.php:18
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-reset-password.php:20
+#: masterstudy/woocommerce/emails/plain/customer-reset-password.php:19
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-reset-password.php:21
+#: masterstudy/woocommerce/emails/plain/customer-reset-password.php:20
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/customer-reset-password.php:24
+msgid "Click here to reset your password"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/email-addresses.php:20
+#: masterstudy/woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/email-addresses.php:30
+#: masterstudy/woocommerce/emails/plain/email-addresses.php:18
+msgid "Shipping address"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/email-order-items.php:54
+#: masterstudy/woocommerce/emails/plain/email-order-items.php:49
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/email-order-items.php:56
+#: masterstudy/woocommerce/emails/plain/email-order-items.php:51
+msgid "Download"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/admin-cancelled-order.php:21
+#: masterstudy/woocommerce/emails/plain/admin-new-order.php:22
+#: masterstudy/woocommerce/emails/plain/customer-completed-order.php:22
+#: masterstudy/woocommerce/emails/plain/customer-invoice.php:23
+#: masterstudy/woocommerce/emails/plain/customer-note.php:30
+#: masterstudy/woocommerce/emails/plain/customer-processing-order.php:22
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/admin-cancelled-order.php:22
+#: masterstudy/woocommerce/emails/plain/admin-new-order.php:23
+#: masterstudy/woocommerce/emails/plain/customer-completed-order.php:23
+#: masterstudy/woocommerce/emails/plain/customer-invoice.php:24
+#: masterstudy/woocommerce/emails/plain/customer-note.php:31
+#: masterstudy/woocommerce/emails/plain/customer-processing-order.php:23
+msgid "jS F Y"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/admin-cancelled-order.php:36
+#: masterstudy/woocommerce/emails/plain/admin-new-order.php:37
+#, php-format
+msgid "View order: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/admin-new-order.php:16
+#, php-format
+msgid "You have received an order from %s."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/customer-new-account.php:19
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/emails/plain/email-order-items.php:38
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: masterstudy/woocommerce/global/form-login.php:26
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: masterstudy/woocommerce/global/form-login.php:42
+#: masterstudy/woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: masterstudy/woocommerce/global/form-login.php:46
+#: masterstudy/woocommerce/myaccount/form-login.php:51
+msgid "Lost your password?"
+msgstr ""
+
+#: masterstudy/woocommerce/global/helpbar.php:51
+msgid "All courses"
+msgstr ""
+
+#: masterstudy/woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: masterstudy/woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: masterstudy/woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: masterstudy/woocommerce/loop/sale-flash.php:19
+#: masterstudy/woocommerce/single-product/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-add-payment-method.php:41
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-add-payment-method.php:49
+msgid "Add Payment Method"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-address.php:16
+#: masterstudy/woocommerce/myaccount/my-address.php:19
+#: masterstudy/woocommerce/myaccount/my-address.php:25
+#: masterstudy/woocommerce/order/order-details.php:189
+msgid "Billing Address"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-address.php:16
+#: masterstudy/woocommerce/myaccount/my-address.php:20
+#: masterstudy/woocommerce/order/order-details.php:208
+msgid "Shipping Address"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-login.php:92
+msgid "Anti-spam"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:26
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:32
+msgid "Enter a new password below."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:35
+msgid "New password"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:39
+msgid "Re-enter new password"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:52
+msgid "Reset Password"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/form-lost-password.php:52
+msgid "Save"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-address.php:40
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-address.php:68
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-address.php:85
+msgid "Edit"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-orders.php:53
+msgid "Order Number"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-orders.php:81
+msgid "Cancel"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/my-orders.php:87
+msgid "View"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/view-order.php:24
+#: masterstudy/woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: masterstudy/woocommerce/myaccount/view-order.php:30
+#: masterstudy/woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: masterstudy/woocommerce/notices/error.php:21
+msgid "Error"
+msgstr ""
+
+#: masterstudy/woocommerce/notices/notice.php:21
+msgid "Infromational"
+msgstr ""
+
+#: masterstudy/woocommerce/notices/success.php:21
+msgid "Success"
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: masterstudy/woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:58
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:123
+#: masterstudy/woocommerce/order/order-details.php:127
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:145
+msgid "Refunded:"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:154
+msgid "Note:"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:164
+msgid "Customer details"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:169
+msgid "Email:"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:173
+msgid "Telephone:"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:173
+msgid "Telephone"
+msgstr ""
+
+#: masterstudy/woocommerce/order/order-details.php:194
+#: masterstudy/woocommerce/order/order-details.php:213
+#: masterstudy/woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: masterstudy/woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: masterstudy/woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: masterstudy/woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: masterstudy/woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/product-image.php:50
+#: masterstudy/woocommerce/single-product/product-thumbnails.php:55
+msgid "Placeholder"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/review.php:27
+msgid "verified owner"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/review.php:40
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/review.php:41
+msgid "out of 5"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: masterstudy/woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

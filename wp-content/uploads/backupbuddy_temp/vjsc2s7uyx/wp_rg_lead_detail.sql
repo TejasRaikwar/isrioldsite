@@ -1,0 +1,12 @@
+CREATE TABLE `wp_rg_lead_detail` (  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,  `lead_id` int(10) unsigned NOT NULL,  `form_id` mediumint(8) unsigned NOT NULL,  `field_number` float NOT NULL,  `value` longtext COLLATE utf8mb4_unicode_520_ci,  PRIMARY KEY (`id`),  KEY `form_id` (`form_id`),  KEY `lead_id` (`lead_id`),  KEY `lead_field_number` (`lead_id`,`field_number`),  KEY `lead_field_value` (`value`(191))) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+/*!40000 ALTER TABLE `wp_rg_lead_detail` DISABLE KEYS */;
+INSERT INTO `wp_rg_lead_detail` VALUES('1', '1', '2', '1', 'Shripal Shah');
+INSERT INTO `wp_rg_lead_detail` VALUES('2', '1', '2', '3', 'shripal@isritechnologies.com');
+INSERT INTO `wp_rg_lead_detail` VALUES('3', '1', '2', '4', '09930205985');
+INSERT INTO `wp_rg_lead_detail` VALUES('4', '1', '2', '7', 'SharePoint');
+INSERT INTO `wp_rg_lead_detail` VALUES('5', '1', '2', '8', 'Development');
+INSERT INTO `wp_rg_lead_detail` VALUES('6', '1', '2', '10', 'Male');
+INSERT INTO `wp_rg_lead_detail` VALUES('7', '1', '2', '11', '2016-09-26');
+INSERT INTO `wp_rg_lead_detail` VALUES('8', '1', '2', '12', '2');
+INSERT INTO `wp_rg_lead_detail` VALUES('9', '1', '2', '14', '200000');
+/*!40000 ALTER TABLE `wp_rg_lead_detail` ENABLE KEYS */;

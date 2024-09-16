@@ -1,0 +1,22 @@
+ùÁıX<?php exit; ?>a:1:{s:7:"content";C:24:"WPSEO_Sitemap_Cache_Data":814:{a:2:{s:6:"status";s:2:"ok";s:3:"xml";s:767:"<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://www.isritechnologies.com/page-sitemap.xml</loc>
+		<lastmod>2017-04-13T11:52:54+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.isritechnologies.com/testimonial-sitemap.xml</loc>
+		<lastmod>2016-10-10T15:48:41+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.isritechnologies.com/sidebar-sitemap.xml</loc>
+		<lastmod>2015-07-01T15:06:15+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.isritechnologies.com/gallery-sitemap.xml</loc>
+		<lastmod>2016-10-11T01:39:04+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.isritechnologies.com/gallery_category-sitemap.xml</loc>
+		<lastmod>2016-10-11T01:39:04+05:30</lastmod>
+	</sitemap>
+</sitemapindex>";}}}

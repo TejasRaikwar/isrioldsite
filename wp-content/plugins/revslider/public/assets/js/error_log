@@ -1,0 +1,31 @@
+[18-Apr-2017 16:50:06 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 16:50:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[18-Apr-2017 16:50:06 UTC] PHP Warning:  PHP Startup: htscanner: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[30-Jan-2018 14:56:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2018 11:20:47 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Mar-2018 02:44:52 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Mar-2018 11:15:34 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Mar-2018 13:52:19 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Apr-2018 15:25:17 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-May-2018 07:00:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 17:57:09 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2018 23:42:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Jun-2018 10:13:03 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jun-2018 11:27:16 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Jul-2018 06:29:35 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2018 21:10:53 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[31-Jul-2018 12:22:39 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Aug-2018 02:03:22 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Aug-2018 04:23:17 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so' - /opt/php56/lib/php/extensions/no-debug-non-zts-20131226/htscanner.so: cannot open shared object file: No such file or directory in Unknown on line 0

@@ -1,0 +1,3 @@
+CREATE TABLE `wp_w3tc_cdn_queue` (  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,  `local_path` varchar(500) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',  `remote_path` varchar(500) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',  `command` tinyint(1) unsigned NOT NULL DEFAULT '0' COMMENT '1 - Upload, 2 - Delete, 3 - Purge',  `last_error` varchar(150) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',  `date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',  PRIMARY KEY (`id`),  KEY `date` (`date`)) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+/*!40000 ALTER TABLE `wp_w3tc_cdn_queue` DISABLE KEYS */;
+/*!40000 ALTER TABLE `wp_w3tc_cdn_queue` ENABLE KEYS */;

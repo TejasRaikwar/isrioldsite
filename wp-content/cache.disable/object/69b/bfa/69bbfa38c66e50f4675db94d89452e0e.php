@@ -1,0 +1,1 @@
+5«öX<?php exit; ?>a:1:{s:7:"content";C:24:"WPSEO_Sitemap_Cache_Data":48:{a:2:{s:6:"status";s:5:"error";s:3:"xml";s:0:"";}}}

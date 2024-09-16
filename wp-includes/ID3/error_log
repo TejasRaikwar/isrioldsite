@@ -1,0 +1,17 @@
+[25-Mar-2017 12:56:44 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[25-Mar-2017 12:57:58 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[25-Mar-2017 12:58:32 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[04-Jun-2017 21:35:21 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[04-Jun-2017 21:36:27 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[04-Jun-2017 21:37:02 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[02-Jul-2017 08:00:11 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[02-Jul-2017 08:01:35 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[02-Jul-2017 08:02:10 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[21-Sep-2017 22:16:03 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[16-Nov-2017 11:36:20 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[22-Nov-2017 13:12:54 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[23-Nov-2017 22:39:11 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[25-Nov-2017 05:29:19 America/Los_Angeles] PHP Fatal error:  Class 'getid3_lib' not found in /home/isrite5/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[09-Jan-2018 07:18:46 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[12-Jan-2018 12:53:43 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[17-Jan-2018 07:03:37 America/Los_Angeles] PHP Fatal error:  Class 'getid3_handler' not found in /home/isrite5/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19

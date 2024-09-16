@@ -1,0 +1,14 @@
+[15-Sep-2015 08:44:19 CST6CDT] PHP Notice:  Use of undefined constant CURLOPT_CLOSEPOLICY - assumed 'CURLOPT_CLOSEPOLICY' in /home/isritech/public_html/www.dynamichris.com/importbuddy/lib/requestcore/requestcore.class.php on line 626
+[16-Sep-2015 12:30:41 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:30:53 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:31:08 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:31:14 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:32:31 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:34:46 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:34:52 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:35:02 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:35:20 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:35:35 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[16-Sep-2015 12:36:05 UTC] PHP Warning:  fileperms(): stat failed for /home/isritech/public_html/www.dynamichris.com/index.php in /home/isritech/public_html/www.dynamichris.com/wp-admin/includes/file.php on line 891
+[14-Oct-2015 02:15:34 UTC] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/isritech/public_html/www.dynamichris.com/wp-includes/nav-menu.php on line 10
+[14-Oct-2015 02:15:36 UTC] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/isritech/public_html/www.dynamichris.com/wp-includes/nav-menu.php on line 10
